@@ -1,2 +1,2 @@
 CHALLENGE ONE - CODE REFACTOR:
-https://github.com/nsherman113/lets-git-to-refactoring
+https://nsherman113.github.io/lets-git-to-refactoring/index.html
